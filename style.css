@@ -1,0 +1,21 @@
+body {
+  width: 600px;
+  margin: 25px auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+  width: 200px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: rgb(134, 208, 87);
+}
+
+input {
+  width: 50px;
+  padding: 5px;
+  margin: auto;
+  border: 2px inset;
+  border-radius: 5px;
+}
