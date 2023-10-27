@@ -1,4 +1,4 @@
-//CS10 COMPOUND INTEREST CALCULATOR
+//CS10 COMPOUND INTEREST CALCULATOR BY ZAINA
 
 //BTN EVENT LISTENER
 document.getElementById("btn").addEventListener("click", btnClicked);
