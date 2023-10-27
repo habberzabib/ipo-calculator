@@ -1,4 +1,4 @@
-//CS10 COMPUND INVESTEMENT CALCULATOR
+//CS10 COMPOUND INVESTEMENT CALCULATOR
 
 //BTN EVENT LISTENER
 document.getElementById("btn").addEventListener("click", btnClicked);
