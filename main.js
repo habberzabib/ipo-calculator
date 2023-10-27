@@ -1,4 +1,4 @@
-//CS10 GRADE CALCULATOR
+//CS10 COMPUND INVESTEMENT CALCULATOR
 
 //BTN EVENT LISTENER
 document.getElementById("btn").addEventListener("click", btnClicked);
